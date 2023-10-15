@@ -26,11 +26,3 @@ This case study focuses on Twitter users' general reactions to the FTX cryptocur
 
 - `ftx_final.csv`: The scraped tweets
 - `clean_tweets`: Preprocessed tweets 
-
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone <repository-url>
-   cd twitter-reaction-analysis
